@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="pdfs/CV.pdf" class="image fit"><img src="images/CV.jpg" alt=""></a>
+<a href="files/CV_JS_090920.pdf" class="image fit"><img src="images/CV.jpg" alt=""></a>
