@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jenny Soonthornrangsan"
-  avatar           : "IMG-4483.JPG"
+  avatar           : "/images/IMG-4483.JPG"
   bio              : "M.Sc. Candidate, Geological Sciences, University at Buffalo"
   location         : "Buffalo, NY, USA"
   employer         :
@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
